@@ -1,0 +1,20 @@
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\bin\Debug\Formulário de Cálculo de Salário.exe.config
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\bin\Debug\Formulário de Cálculo de Salário.exe
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\bin\Debug\Formulário de Cálculo de Salário.pdb
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.csproj.AssemblyReference.cache
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\obj\Debug\Formulário_de_Cálculo_de_Salário.Form1.resources
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\obj\Debug\Formulário_de_Cálculo_de_Salário.Properties.Resources.resources
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.csproj.GenerateResource.cache
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.csproj.CoreCompileInputs.cache
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.exe
+C:\Users\Prof. Ivan Souza\Desktop\Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.pdb
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\bin\Debug\Formulário de Cálculo de Salário.exe.config
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\bin\Debug\Formulário de Cálculo de Salário.exe
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\bin\Debug\Formulário de Cálculo de Salário.pdb
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.csprojAssemblyReference.cache
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\obj\Debug\Formulário_de_Cálculo_de_Salário.Form1.resources
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\obj\Debug\Formulário_de_Cálculo_de_Salário.Properties.Resources.resources
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.csproj.GenerateResource.cache
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.csproj.CoreCompileInputs.cache
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.exe
+D:\home\aluno\Desktop\07º Aula - Formulário de Cálculo de Salário\obj\Debug\Formulário de Cálculo de Salário.pdb
